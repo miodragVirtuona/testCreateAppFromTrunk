@@ -1,0 +1,2 @@
+# testCreateAppFromTrunk
+desc
